@@ -1,0 +1,2 @@
+# Pitch
+Ever wanted to make a website, or a bot that spams kahoot.it with literally thousands of bots? Me neither, but if you did have such inclination, you could join our activity where you will learn to program, do web development, and get Swedish fish. By the end of the activity, you will have a website and learned the basics of python and node.js. If you have no idea what python or node.js are, great! Our activity does not require any prior knowledge (but for those of you that do, you are welcome too).

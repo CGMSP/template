@@ -1,5 +1,5 @@
 help = input("PythonCalc V 1.3 by Sam Langer; Say 'help' for available commands, and to start the calculator. ")#Prompt for command help
-if help== "help" or "Help": #If response help of Help, 
+if help== "help" or "Help": #If response help or Help, 
   print("Signs: '+', '-', '*', '/', 'sqr', 'sqrt', 'cube', '!', 'power'. ") #Print available operations
   sign = input("What operation should I use? ") #Prommpt for operation to use
   if sign== "+": #If prompt answered by "+":
